@@ -15,7 +15,7 @@ VAR score = 0
 #Location: akst2
 # clear:
 Учитель: Как называется эта деталь?
-#Location: akst3
+
 * [Смартхаб] -> prav
 * [Средний мотор] -> neprav
 * [Датчик движения] -> neprav
